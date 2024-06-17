@@ -1,3 +1,4 @@
 site_name: Mahjong
+site_url: https://jernejp21.github.io/mkdocs_test/
 theme:
   name: material
